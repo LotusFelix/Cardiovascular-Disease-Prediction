@@ -43,4 +43,4 @@ All of the dataset values were collected at the moment of medical examination.
 
 The goal is to optimize each model and compare their performance based on accuracy, precision, recall, and overall clinical viability. By implementing early stopping, hyperparameter tuning, and advanced evaluation metrics, this project seeks to identify the most reliable models for real-world medical applications. 
 
-Enjoy!!!
+Savor!!!
